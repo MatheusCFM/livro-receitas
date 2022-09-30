@@ -7,3 +7,5 @@ Olá! Bem-vindo ao meu livro de receitas
 - Pavê
 
 - Torta de limão
+
+- Bolo de cenoura
